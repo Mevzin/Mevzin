@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Thiago Torres 👋
 
-- 🔭 Atualmente trabalho como front-end
 - 🌱 Estudando Typescript, acompanhado de angular e reactjs
 
 
